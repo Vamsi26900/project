@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Test Report</title>
+<head>
+<body>
+<h3>Test results</h3>
+<table bgcolor="lightblue" border="1" width="60%" >
+<tr>
+<th width="10%">Step</th>
+<th width="10%">Result</th>
+<th width="80%">Remarks</th>
+</tr>
+<!<tr><td>1</td><td><a href = "..\Screeenshots\12-12-2018-11-02-11.jpg" style="color:red" >Fail</a></td><td>Text box username not found on the application</td></tr><tr><td>2</td><td><a href = "..\Screeenshots\12-12-2018-11-02-21.jpg" style="color:red" >Fail</a></td><td>Text box Password not found on the application</td></tr><tr><td>3</td><td><a href = "..\Screeenshots\12-12-2018-11-02-21.jpg" style="color:red" >Fail</a></td><td>Text box Password not found on the application</td></tr><tr><td>1</td><td><a href = "..\Screeenshots\12-12-2018-11-03-20.jpg" style="color:red" >Fail</a></td><td>Text box username not found on the application</td></tr><tr><td>2</td><td><a href = "..\Screeenshots\12-12-2018-11-03-30.jpg" style="color:red" >Fail</a></td><td>Text box Password not found on the application</td></tr><tr><td>1</td><td><a href = "..\Screeenshots\12-12-2018-11-04-50.jpg" style="color:red" >Fail</a></td><td>Text box username not found on the application</td></tr><tr><td>2</td><td><a href = "..\Screeenshots\12-12-2018-11-05-00.jpg" style="color:red" >Fail</a></td><td>Text box Password not found on the application</td></tr><tr><td>3</td><td><a href = "..\Screeenshots\12-12-2018-11-05-12.jpg" style="color:red" >Fail</a></td><td>Button Login not found on the application</td></tr><tr><td>4</td><td><a href = "..\Screeenshots\12-12-2018-11-05-23.jpg" style="color:red" >Fail</a></td><td>Button Invoice not found on the application</td></tr>-- INSERT_RESULTS -->
+</table>
+</body>

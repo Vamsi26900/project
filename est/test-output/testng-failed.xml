@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <test thread-count="2" name="exampletest2(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="Cucumber_Selenium.est.StepDefinition">
+        <methods>
+          <include name="url_opened"/>
+          <include name="close_browser"/>
+        </methods>
+      </class> <!-- Cucumber_Selenium.est.StepDefinition -->
+    </classes>
+  </test> <!-- exampletest2(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
